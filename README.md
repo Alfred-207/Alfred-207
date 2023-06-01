@@ -17,3 +17,5 @@ Hey, I'm Alfie, I typically go by Alfred though. I'm an avid Computer Science en
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,discord" />
 </p>
+<!-- just analytics -->
+![](https://hit.yhype.me/github/profile?user_id=64010636)
