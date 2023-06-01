@@ -2,6 +2,7 @@
 Hey, I'm Alfie, I typically go by Alfred though. I'm an avid Computer Science enthusiast, born and raised in the North East of England, United Kingdom.
 
 # Contact Me
+
 [[Website]] | [[Discord]] | [[Email]]
 
 [Website]: https://imalf.red
@@ -11,5 +12,8 @@ Hey, I'm Alfie, I typically go by Alfred though. I'm an avid Computer Science en
 # My Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,ts,lua,mongodb" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,lua,md" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,discord" />
 </p>
