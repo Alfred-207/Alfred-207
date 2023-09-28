@@ -7,7 +7,7 @@ Hey, I'm Alfie, I typically go by Alfred though. I'm an avid Computer Science en
 
 [Website]: https://imalf.red
 [Discord]: https://discord.app.com/users/788346335085592607
-[Email]: mailto:itsalfred@pm.me
+[Email]: mailto:alfie@imalf.red
 
 # My Skills
 
