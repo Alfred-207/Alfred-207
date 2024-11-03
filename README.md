@@ -1,5 +1,5 @@
 # About Me
-Hey, I'm Alfie, I typically go by Alfred though. I'm an avid Computer Science enthusiast, born and raised in the North East of England, United Kingdom.
+Hey, I'm Alfie. I'm an avid Computer Science enthusiast, born and raised in the North East of England, United Kingdom.
 
 # Contact Me
 
