@@ -1,5 +1,5 @@
 # About Me
-Hey, I'm Alfie. I'm an avid Computer Science enthusiast, born and raised in the North East of England, United Kingdom.
+I'm Alfie. I work in Information Technology.
 
 # Contact Me
 
