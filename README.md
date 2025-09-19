@@ -5,9 +5,9 @@ I'm Alfie. I work in Information Technology.
 
 [[Website]] | [[Discord]] | [[Email]]
 
-[Website]: https://imalf.red
+[Website]: X
 [Discord]: https://discord.app.com/users/788346335085592607
-[Email]: mailto:alfie@imalf.red
+[Email]: X
 
 # My Skills
 
