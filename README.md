@@ -1,22 +1,11 @@
-# About Me
-I'm Alfie. I work in Information Technology.
+### 🙋‍♂️ hey what's up dude
+i'm alfie
 
-# Contact Me
+i am presently employed in information technology, working on providing technical support to end-users in a public organisation
 
-[[Website]] | [[Discord]] | [[Email]]
+apart from that, i'm an intermediate developer. i have a firm grasp of lua, javascript and some other bits and bobs
 
-[Website]: X
-[Discord]: https://discord.app.com/users/788346335085592607
-[Email]: X
-
-# My Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,lua,md" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,discord" />
-</p>
+proud member of #HTMLisNotAProgrammingLanguage
 
 <!-- just analytics -->
-[](https://hit.yhype.me/github/profile?user_id=64010636)
+![](https://hit.yhype.me/github/profile?account_id=64010636)
