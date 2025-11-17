@@ -7,7 +7,7 @@ apart from that, i'm an intermediate developer. i have a firm grasp of lua, java
 
 proud member of #HTMLisNotAProgrammingLanguage
 
-prior developer @ [Volute Games](https://github.com/VoluteGames) and a variety of other small games communities
+programmer @ [Volute Games](https://github.com/VoluteGames) and previously a variety of other small games communities
 
 <!-- just analytics -->
 ![](https://hit.yhype.me/github/profile?account_id=64010636)
