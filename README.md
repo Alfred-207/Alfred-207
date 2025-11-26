@@ -1,7 +1,7 @@
 ### 🙋‍♂️ hey what's up dude
 i'm alfie
 
-i am presently employed in information technology, working on providing technical support to end-users in a public organisation
+i am presently employed in information technology, providing technical support and fulfilling service requests to end-users in a public organisation
 
 apart from that, i'm an intermediate developer. i have a firm grasp of lua, javascript and some other bits and bobs
 
