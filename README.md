@@ -1,13 +1,12 @@
-### 🙋‍♂️ hey what's up dude
-i'm alfie
+### 🙋‍♂️ Hey
+I'm Alfie. I am from the United Kingdom.
 
-i am presently employed in information technology, providing technical support and fulfilling service requests to end-users in a public organisation
+Currently employed full-time in the infotech industry at an MSP, providing end-user support.
+Intermediate programmer. Got my head screwed on when it comes to logical thinking, but not anything else.
 
-apart from that, i'm an intermediate developer. i have a firm grasp of lua, javascript and some other bits and bobs
+Proud member of #HTMLisNotAProgrammingLanguage
 
-proud member of #HTMLisNotAProgrammingLanguage
-
-programmer @ [Volute Games](https://github.com/VoluteGames) and previously a variety of other small games communities
+Programmer @ [Volute Games](https://github.com/VoluteGames) and previously a variety of other small games communities
 
 <!-- just analytics -->
 ![](https://hit.yhype.me/github/profile?account_id=64010636)
